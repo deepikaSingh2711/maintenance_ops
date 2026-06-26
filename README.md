@@ -12,7 +12,7 @@ It manages outlets, assets, preventive-maintenance (PM) programs, reactive ticke
 | **Cloud URL**   | https://maintainance.m.frappe.cloud/app/              |
 | Email                 | deepikasinghns1@gmail.com                     |
 | **Password**    | Cbassesment@2026                              |
-| **GitHub Repo** |  |
+| **GitHub Repo** | https://github.com/deepikaSingh2711/maintenance_ops.git |
 
 ---
 
@@ -67,7 +67,7 @@ maintenance_ops/
 
 ```bash
 cd frappe-bench/apps
-git clone 
+git clone https://github.com/deepikaSingh2711/maintenance_ops.git
 ```
 
 ### 2 – Create & configure the site
